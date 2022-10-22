@@ -73,3 +73,9 @@ span {
   font-weight: normal;
 }
 
+table {
+    border-collapse: collapse;
+    border: 0;
+    position: relative;
+    margin-top: 3rem;
+}
