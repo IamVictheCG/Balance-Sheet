@@ -154,5 +154,6 @@ tr.data td:last-of-type {
 p {
     text-align: center;
     background-color: #979799;
+    color: black;
     padding: 5px 0;
 }
