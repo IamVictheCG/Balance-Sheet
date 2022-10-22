@@ -1,3 +1,8 @@
+body {
+    font-family: sans-serif;
+    color: #0a0a23;
+}
+
 span[class~="sr-only"] {
     border: 0 !important;
     clip: rect(1px, 1px, 1px, 1px) !important;
