@@ -1,11 +1,14 @@
 html {
     box-sizing: border-box;
+    margin-bottom: 0px;
 }
 
 body {
     font-family: sans-serif;
     color: #0a0a23;
-    margin-bottom: 0px;
+    border: #356eaf 2px solid;
+    padding: 0px;
+    margin: 0px;
 }
 
 span[class~="sr-only"] {
