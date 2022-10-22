@@ -1,3 +1,7 @@
+html {
+    box-sizing: border-box;
+  }
+
 body {
     font-family: sans-serif;
     color: #0a0a23;
@@ -16,11 +20,6 @@ span[class~="sr-only"] {
     padding: 0 !important;
     margin: -1px !important;
 }
-
-html {
-  box-sizing: border-box;
-}
-
 
 h1 {
   max-width: 37.25rem;
