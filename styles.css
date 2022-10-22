@@ -69,13 +69,14 @@ section {
   padding: 0 0.75rem 1.5rem 0.75rem;
 }
 
-span {
+/* span {
   font-weight: normal;
-}
+} */
 
 table {
     border-collapse: collapse;
     border: 0;
+    width: 100%;
     position: relative;
     margin-top: 3rem;
 }
@@ -90,7 +91,6 @@ table caption {
 }
 
 tbody td {
-    /* border: 2px #3a973d solid; */
     width: 100vw;
     max-width: 4rem;
     min-width: 4rem;
