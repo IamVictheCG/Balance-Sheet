@@ -90,7 +90,7 @@ table caption {
 }
 
 tbody td {
-    border: 2px #3a973d solid;
+    /* border: 2px #3a973d solid; */
     width: 100vw;
     max-width: 4rem;
     min-width: 4rem;
@@ -104,4 +104,9 @@ tr[class="total"] {
 tr[class="total"] th {
     text-align: left;
     padding: 0.5rem 0 0.25rem 0.5rem;
+}
+
+tr.total td {
+    text-align: right;
+    padding: 0 0.25rem;
 }
