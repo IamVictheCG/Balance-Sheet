@@ -79,3 +79,20 @@ table {
     position: relative;
     margin-top: 3rem;
 }
+
+table caption {
+    font-size: 1.3em;
+    color: #356eaf;
+    font-weight: normal;
+    position: absolute;
+    top: -2.25rem;
+    left: 0.5rem;
+}
+
+tbody td {
+    border: 2px #3a973d solid;
+    width: 100vw;
+    
+    max-width: 4rem;
+    min-width: 4rem;
+}
